@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    font-family:SegoeProBlack, Segoe UI,SegoeUI,Helvetica,Arial,sans-serif;
+    border: border-box;
+}
+.head-panel{
+    height:80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.head-logo{
+    background-image: url("logo.png");
+    background-size: cover;
+    height:60px;
+    width:200px;
+
+}
